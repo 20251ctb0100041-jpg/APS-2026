@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="gH8l3Y1RyLbShb1nj2nL">
+    <mxGraphModel dx="1414" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ywfRSWCGSJHIrjm0xsOm-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Leitor" vertex="1">
+          <mxGeometry height="60" width="30" x="100" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="ywfRSWCGSJHIrjm0xsOm-5" parent="1" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Bibliotech&lt;/b&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="470" width="440" x="195" y="250" as="geometry" />
+        </mxCell>
+        <mxCell id="ywfRSWCGSJHIrjm0xsOm-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Emprestar Livro" vertex="1">
+          <mxGeometry height="70" width="140" x="250" y="300" as="geometry" />
+        </mxCell>
+        <mxCell id="ywfRSWCGSJHIrjm0xsOm-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Reservar Livro" vertex="1">
+          <mxGeometry height="70" width="140" x="430" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="ywfRSWCGSJHIrjm0xsOm-9" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Biliotecario" vertex="1">
+          <mxGeometry height="60" width="30" x="700" y="525" as="geometry" />
+        </mxCell>
+        <mxCell id="ywfRSWCGSJHIrjm0xsOm-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Consultar Disponibilidade" vertex="1">
+          <mxGeometry height="70" width="140" x="320" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="ywfRSWCGSJHIrjm0xsOm-13" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Cadastrar Livro" vertex="1">
+          <mxGeometry height="70" width="140" x="440" y="560" as="geometry" />
+        </mxCell>
+        <mxCell id="ywfRSWCGSJHIrjm0xsOm-17" edge="1" parent="1" source="ywfRSWCGSJHIrjm0xsOm-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" target="ywfRSWCGSJHIrjm0xsOm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ywfRSWCGSJHIrjm0xsOm-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Consultar Acervo" vertex="1">
+          <mxGeometry height="70" width="140" x="240" y="570" as="geometry" />
+        </mxCell>
+        <mxCell id="ywfRSWCGSJHIrjm0xsOm-18" edge="1" parent="1" source="ywfRSWCGSJHIrjm0xsOm-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="ywfRSWCGSJHIrjm0xsOm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ywfRSWCGSJHIrjm0xsOm-19" edge="1" parent="1" source="ywfRSWCGSJHIrjm0xsOm-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="ywfRSWCGSJHIrjm0xsOm-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ywfRSWCGSJHIrjm0xsOm-21" edge="1" parent="1" source="ywfRSWCGSJHIrjm0xsOm-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.3333333333333333;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" target="ywfRSWCGSJHIrjm0xsOm-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ywfRSWCGSJHIrjm0xsOm-22" edge="1" parent="1" source="ywfRSWCGSJHIrjm0xsOm-6" style="html=1;verticalAlign=bottom;labelBackgroundColor=none;endArrow=open;endFill=0;dashed=1;rounded=0;entryX=0.55;entryY=0.029;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.243;exitY=0.943;exitDx=0;exitDy=0;exitPerimeter=0;" target="ywfRSWCGSJHIrjm0xsOm-12" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="330" y="390" as="sourcePoint" />
+            <mxPoint x="490" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
