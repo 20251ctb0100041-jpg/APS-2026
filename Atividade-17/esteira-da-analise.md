@@ -34,10 +34,10 @@
 
 ## Autoavaliação
 
-**Conceito pretendido:** ___ (A / B / C)
+**Conceito pretendido:** B (A / B / C)
 
-- Conversei sobre esta atividade com: ______ (ou "ninguém")
-- Esteira da análise: ______ (diga onde)
-- Diagrama e notação: ______
-- Rastreabilidade: ______
-- Organização da entrega: ______
+- Conversei sobre esta atividade com: Ninguém (ou "ninguém")
+- Esteira da análise: Mapeamento completo e contínuo, convertendo a fala do cliente até o diagrama UML. (diga onde)
+- Diagrama e notação: Uso correto dos símbolos (atores externos, casos de uso no padrão verbo + objeto e associações sem seta).
+- Rastreabilidade: Tabela conectando claramente fala original, código do requisito e elipse.
+- Organização da entrega: Documento organizado
